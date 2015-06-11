@@ -1,2 +1,2 @@
-git is a version control system.
+git is jefftest version control system.
 git is free software.
